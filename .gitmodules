@@ -1,3 +1,0 @@
-[submodule "compose-full-suite/OpenSlides"]
-	path = compose-full-suite/core/OpenSlides
-	url = https://github.com/OpenSlides/OpenSlides.git
